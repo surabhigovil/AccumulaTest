@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Routes, Route, Link, BrowserRouter as Router } from "react-router-dom";
+import { Routes, Route, Link, HashRouter as Router } from "react-router-dom";
 import axios from 'axios';
 
 import Cart from './components/Cart';
