@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AccumulaTest/static/css/main.b4e7b695.css",
-    "main.js": "/AccumulaTest/static/js/main.c77548f6.js",
-    "static/js/787.59fd632c.chunk.js": "/AccumulaTest/static/js/787.59fd632c.chunk.js",
-    "index.html": "/AccumulaTest/index.html",
-    "main.b4e7b695.css.map": "/AccumulaTest/static/css/main.b4e7b695.css.map",
-    "main.c77548f6.js.map": "/AccumulaTest/static/js/main.c77548f6.js.map",
-    "787.59fd632c.chunk.js.map": "/AccumulaTest/static/js/787.59fd632c.chunk.js.map"
+    "main.css": "/AccumulaTest/products/static/css/main.b4e7b695.css",
+    "main.js": "/AccumulaTest/products/static/js/main.fac7cf07.js",
+    "static/js/787.59fd632c.chunk.js": "/AccumulaTest/products/static/js/787.59fd632c.chunk.js",
+    "index.html": "/AccumulaTest/products/index.html",
+    "main.b4e7b695.css.map": "/AccumulaTest/products/static/css/main.b4e7b695.css.map",
+    "main.fac7cf07.js.map": "/AccumulaTest/products/static/js/main.fac7cf07.js.map",
+    "787.59fd632c.chunk.js.map": "/AccumulaTest/products/static/js/787.59fd632c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4e7b695.css",
-    "static/js/main.c77548f6.js"
+    "static/js/main.fac7cf07.js"
   ]
 }
