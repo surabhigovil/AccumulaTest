@@ -9,8 +9,9 @@
 2. There is a date picker which has current server date selected as default.
 3. User can select a new date from the datepicker.
 4. Maximum shipping date is calculated based on the selected or default date.
-
-**Deploymenmt**:
+5. The utility function located at src/utils/util.js calculates shipping date based on weekends and holidays.
+6. 
+**Deployment**:
 1. The application is hosted using Github pages.
 2. I have used the branch base approach to host on github pages 
 
