@@ -17,8 +17,10 @@
 **The deployed app is available at : <link>https://surabhigovil.github.io/AccumulaTest/</link>**
 
 **Running the app locally:**
+
 **Requirements**:
 1.Node.js
+
 **Installations Steps:**
 1. Clone repo
 2. Run npm install
