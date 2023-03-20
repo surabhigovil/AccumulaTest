@@ -16,7 +16,7 @@
 
 **The deployed app is available at : <link>https://surabhigovil.github.io/AccumulaTest/</link>**
 
-After clicking on the URL above, select products tab to view and update shipping dates.
+After clicking on the URL above, please select products tab to view and update shipping dates.
 
 **Running the app locally:**
 
