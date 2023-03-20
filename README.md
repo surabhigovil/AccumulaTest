@@ -14,7 +14,7 @@
 1. The application is hosted using Github pages.
 2. I have used the branch base approach to host on github pages 
 
-**The deployed app is available at : <link>https://surabhigovil.github.io/AccumulaTest/products</link>**
+**The deployed app is available at : <link>https://surabhigovil.github.io/AccumulaTest/</link>**
 
 **Running the app locally:**
 **Requirements**:
