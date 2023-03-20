@@ -16,6 +16,8 @@
 
 **The deployed app is available at : <link>https://surabhigovil.github.io/AccumulaTest/</link>**
 
+After clicking on the URL above, select products tab to view and update shipping dates.
+
 **Running the app locally:**
 
 **Requirements**:
@@ -27,3 +29,9 @@
 3. Run ./backend/db.json --port 3001 to start the backend server
 4. Run npm start to start the Create React App dev server
 5. Visit http://localhost:3000/
+
+**Screenshots**:
+1. User changes date from dropdown and screenshot below shows max shipping date based on that:
+<img width="1437" alt="Screen Shot 2023-03-20 at 8 33 16 AM" src="https://user-images.githubusercontent.com/10840984/226414316-a1ed7b2a-e05a-437f-b5ba-a6baa875a45b.png">
+2. User changes date from dropdown and screenshot below shows max shipping date for an item available to ship on weekends based on that:
+<img width="1433" alt="Screen Shot 2023-03-20 at 9 18 57 AM" src="https://user-images.githubusercontent.com/10840984/226414443-616d9d39-b710-476a-888c-582a54bb08fd.png">
